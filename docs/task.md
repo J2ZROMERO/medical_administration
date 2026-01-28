@@ -1,0 +1,6 @@
+- [x] Read and analyze `Spec.md` <!-- id: 0 -->
+- [x] Create `implementation_plan.md` including directory structure documentation <!-- id: 1 -->
+- [/] Initialize project (dependencies, directories) <!-- id: 2 -->
+- [ ] Implement Database Models (SQLAlchemy) <!-- id: 3 -->
+- [ ] Implement API Endpoints (FastAPI) <!-- id: 4 -->
+- [ ] Verify MVP functionality <!-- id: 5 -->
